@@ -40,7 +40,7 @@ Highlights weeks above and below average to easily identify trends.
 6. Figure out what made Q4 so good - November and December were strong. Was it holiday demand? Special promotions? Whatever it was, do more of that throughout the year.
 8. Get operations under control - The Profit chart shows that the profits are too wild. Better inventory management and cost controls will make things more predictable and profitable.
 ------------------------------------------------------------------------------------------------------------------------------------------------
-Read the Entire Case Study :https://www.notion.so/Product-Analytics-Churn-and-Customer-Retention-Case-Study-22fc6ddfff8680a5997ece92ef7a898f
+Read the Entire Case Study : https://www.notion.so/Sales-Performance-Analysis-Dashboard-233c6ddfff8680dc818ffd72974fcc14
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 📜 License
